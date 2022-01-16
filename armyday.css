@@ -1,0 +1,59 @@
+.head{
+    color: darkcyan;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Metal', cursive;
+}
+.head a{
+    text-decoration: none;
+}
+#habtc a{
+    text-decoration: none;
+    font-size: 30px;
+    color: sienna;
+}
+#habtc{
+    text-align: right;
+    margin: 10px;
+}
+.upper{
+    background-color: thistle;
+    border: 10px solid rgb(132, 0, 255);
+    border-radius: 10px;
+    margin: 5px;
+    height: auto;
+    width: auto;
+}
+.content{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: powderblue;
+    border: 10px solid rgb(115, 255, 0);
+    border-radius: 10px;
+    margin: 5px;
+    height: auto;
+    width: auto;
+}
+.mainh{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin-top: 10px;
+}
+.footer{
+    font-size: 36px;
+    text-align: center;
+    background-color: aqua;
+    border: 10px solid rgb(255, 166, 0);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 0;
+}
+.img{
+    margin-left: 10px;
+}
+.text{
+    margin: 15px;
+}
